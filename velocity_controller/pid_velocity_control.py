@@ -9,7 +9,6 @@
 import rospy
 from geometry_msgs.msg import TwistStamped
 from ros_clients.msg import GeneralizedForce
-import time
 
 x = 0
 y = 0
